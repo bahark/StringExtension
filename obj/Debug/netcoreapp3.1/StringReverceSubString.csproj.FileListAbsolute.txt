@@ -1,0 +1,14 @@
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.exe
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.deps.json
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.runtimeconfig.json
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.runtimeconfig.dev.json
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.dll
+D:\bahar\Learning\StringReverceSubString\bin\Debug\netcoreapp3.1\StringReverceSubString.pdb
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.csproj.AssemblyReference.cache
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.GeneratedMSBuildEditorConfig.editorconfig
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.AssemblyInfoInputs.cache
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.AssemblyInfo.cs
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.csproj.CoreCompileInputs.cache
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.dll
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.pdb
+D:\bahar\Learning\StringReverceSubString\obj\Debug\netcoreapp3.1\StringReverceSubString.genruntimeconfig.cache
